@@ -47,7 +47,7 @@ Next, I created an Entity Relationship Diagram (ERD) to visualize how these tabl
 
 <img width="904" alt="Screenshot 2023-10-04 at 12 45 59 PM" src="https://github.com/aamanhassan/sql-challenge/assets/139508376/9514990a-8717-42c2-b3d7-8b10fa454621">
 
-Data Engineering:
+**Data Engineering:**
 After that for Data Engineering,I created tables in PostgreSQL, I organized them into schemas. Then impoted csv files making sure to follow a correct order. 
 
 CREATE TABLE titles(
@@ -110,7 +110,7 @@ CREATE TABLE salaries(
 SELECT * FROM salaries;
 
 
-Data Analysis:
+**Data Analysis:**
 Following that, I executed queries in PostgreSQL and conducted data analysis.
 
 -- List the employee number, last name, first name, sex, and salary of each employee.
