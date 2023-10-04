@@ -23,8 +23,9 @@ dept_name VARCHAR
 
 dept_manager
 -
+emp_no INT PK FK - employees.emp_no
 dept_no VARCHAR PK FK - departments.dept_no
-emp_no INT FK - employees.emp_no
+
 
 
 dept_emp
